@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 100px;
+    background: dodgerblue;
+}
+
+header{
+    display: flex;
+    
+}
+
+header .left-part{
+    width: 40%;
+    height: 300px;
+}
+
+header .right-part{
+    width: 60%;
+    background: url(../images/bg-intro-desktop.svg);
+
+}
